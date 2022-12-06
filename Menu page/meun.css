@@ -117,9 +117,9 @@ main section{
     height: 250px;
 }
 
-.meun_items_one img:hover{
+/* .meun_items_one img:hover{
     
-}
+} */
 
 .meun_items_two img{
     margin: 20px 25px 0px 40px;
@@ -133,5 +133,5 @@ main section{
 
 
 .meun_items h5{
-    margin: 30px 0 0 0 ;
+    margin: 29px 0 0 0 ;
 }
